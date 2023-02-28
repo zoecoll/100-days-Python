@@ -13,3 +13,23 @@ city = input("What city did you grow up in?\n")
 pet = input("What is the name of your pet?\n")
 #4. Combine the name of their city and pet and show them their band name.
 print("Your band name could be " + city + " " + pet)
+
+
+#Data Types
+
+#String
+print("Hello"[4])
+
+#Integer
+print (123 + 345)
+print(342_654_896)
+
+#Float
+3.14159
+
+#Boolean
+True 
+False
+
+street_name = "Abbey Road"
+print(street_name[4] + street_name[7])
