@@ -22,3 +22,6 @@ num_one = int(two_digit_number[0])
 num_two = int(two_digit_number[1])
 result = num_one + num_two
 print (result)
+
+
+print(3 * 3 + 3 / 3 - 3)
